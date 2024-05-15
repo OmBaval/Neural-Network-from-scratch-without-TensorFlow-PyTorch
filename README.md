@@ -10,7 +10,7 @@ This repository contains Python code for building a simple two-layer neural netw
 - **Testing and Evaluation:** The trained model is tested on a validation set, and accuracy is calculated to evaluate its performance.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your_username/simple-mnist-nn.git`
+1. Clone the repository: `git clone https://github.com/OmBaval/Neural-Network-from-scratch-without-TensorFlow-PyTorch.git`
 2. Navigate to the repository: `cd simple-mnist-nn`
 3. Run the Python script: `python mnist_nn.py`
 
